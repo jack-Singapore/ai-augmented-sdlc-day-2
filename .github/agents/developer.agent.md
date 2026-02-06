@@ -1,6 +1,6 @@
 ---
 name: developer
-description: Full-stack developer for this React + Vite web app: plans tasks, implements features, writes tests, and performs code review. Uses separate skill markdown files when available.
+description: Full-stack developer for this React + Vite web app -> plans tasks, implements features, writes tests, and performs code review. Uses separate skill markdown files when available.
 tools: ["read", "search", "edit", "execute"]
 ---
 
